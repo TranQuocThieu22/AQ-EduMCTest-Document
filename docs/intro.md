@@ -2,46 +2,32 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Giới thiệu hướng dẫn
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Hãy khám phá **AQ-EduMCTest in trong vòng chưa đầy 5 phút**.
 
-## Getting Started
+### Những gì bạn cần
 
-Get started by **creating a new site**.
+Tải hoặc sử dụng các trình duyệt phổ biến để đạt được trải nghiệm tốt nhất khi sử dụng:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- [Edge Browser](https://www.microsoft.com/en-us/edge/download)
+- [Google Chrome](https://www.google.com/chrome/what-you-make-of-it/)
 
-### What you'll need
+## Bắt đầu
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Truy cập vào website của chúng tôi: **[https://mc-test-mauve.vercel.app/](https://mc-test-mauve.vercel.app/)**
 
-## Generate a new site
+![1-login.jpeg](./img/1-login.jpeg)
 
-Generate a new Docusaurus site using the **classic template**.
+Theo nghiệp vụ hiện tại hệ thống có 3 vai trò sử dụng:
 
-The classic template will automatically be added to your project after you run the command:
+- Quản trị viên
+- Giáo viên
+- Học sinh
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+**_Website chi có 1 trang đăng nhập duy nhất cho tất cả quyền:_**
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Quản trị viên, Giáo viên sẽ được vào trang quản lí hệ thống
+  ![2-he-thong.jpeg](./img/2-he-thong.jpeg)
+- Học sinh sau khi đăng nhập sẽ vào trang chuẩn bị làm bài
+  ![3-lam-bai.png](./img/3-lam-bai.png)

@@ -10,32 +10,33 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Giao diện thân thiện, dễ sử dụng',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Hệ thống thi trắc nghiệm được thiết kế tối giản, thân thiện với người dùng, 
+        giúp học sinh, sinh viên dễ dàng tiếp cận và thực hiện bài thi một cách nhanh chóng.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
+    title: 'Tập trung vào kết quả và phân tích',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Hệ thống cung cấp báo cáo chi tiết về kết quả thi, phân tích điểm mạnh, yếu của từng thí sinh, 
+        giúp nâng cao trải nghiệm học tập và tự đánh giá.
+      </>
+    ),
+  },
+
+  {
+    title: 'Chấm điểm và phản hồi ngay lập tức',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    description: (
+      <>
+        Hệ thống cung cấp tính năng chấm điểm tự động ngay sau khi thí sinh nộp bài, 
+        đưa ra phản hồi tức thì để học sinh có thể xem lại và cải thiện kết quả.
       </>
     ),
   },

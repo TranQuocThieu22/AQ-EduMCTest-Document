@@ -19,7 +19,7 @@ Tải hoặc sử dụng các trình duyệt phổ biến để đạt được 
 
 ## Bắt đầu
 
-Truy cập vào website của chúng tôi: **[https://mc-test-mauve.vercel.app/](https://mc-test-mauve.vercel.app/)** (Đây là môi trường thử nghiệm - Beta)
+Truy cập vào website của chúng tôi tại: **[https://mc-test-mauve.vercel.app/](https://mc-test-mauve.vercel.app/)** (Đây là môi trường thử nghiệm - Beta)
 
 ![1-login.jpeg](./img/1-login.jpeg)
 

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tổng quan Module
+# Tổng quan
 
 ![1](./1.jpeg)
 Các chức năng của **Module - Ngân hàng câu hỏi**:

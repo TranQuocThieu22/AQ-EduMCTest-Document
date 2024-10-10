@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # Giới thiệu tổng quan
 
+AQ-EduMCTest được phát triển bởi công ty công nghệ Anh Quân, hỗ trợ việc thi online và quản lí ngân hàng câu hỏi. Website lấy cảm hứng và được phát triển lại từ MC Bank và MC Test online.
+
+Chúng tôi hi vọng có thể cung cấp được cho khách hàng các website có được các giao diện thân thiện dễ sử dụng và các tính năng thú vị.
+
 Hãy khám phá **AQ-EduMCTest in trong vòng chưa đầy 5 phút**.
 
 ### Những gì bạn cần
@@ -15,7 +19,7 @@ Tải hoặc sử dụng các trình duyệt phổ biến để đạt được 
 
 ## Bắt đầu
 
-Truy cập vào website của chúng tôi: **[https://mc-test-mauve.vercel.app/](https://mc-test-mauve.vercel.app/)**
+Truy cập vào website của chúng tôi: **[https://mc-test-mauve.vercel.app/](https://mc-test-mauve.vercel.app/)** (Đây là môi trường thử nghiệm - Beta)
 
 ![1-login.jpeg](./img/1-login.jpeg)
 

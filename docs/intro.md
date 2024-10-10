@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Giới thiệu hướng dẫn
+# Giới thiệu tổng quan
 
 Hãy khám phá **AQ-EduMCTest in trong vòng chưa đầy 5 phút**.
 

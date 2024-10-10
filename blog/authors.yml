@@ -1,6 +1,6 @@
 yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
+  name: Phạm Minh Lâm
+  title: Back End Developer @ AQ Tech
   url: https://github.com/yangshun
   image_url: https://github.com/yangshun.png
   page: true
@@ -9,13 +9,13 @@ yangshun:
     github: yangshun
 
 slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+  name: Trần Quốc Thiệu
+  title: Full Stack Developer @ AQ Tech
+  url: https://github.com/yangshun
+  image_url: https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-1/432774448_1834724910338505_2176963239947091257_n.jpg?stp=dst-jpg_s200x200&_nc_cat=108&ccb=1-7&_nc_sid=0ecb9b&_nc_eui2=AeGqfE0nkoih_lC1udVDHWc3P-mzRdRTZi0_6bNF1FNmLRKv0l2qvhFaWMt-4WSg8zyUtcfbsY5PWIx3d7muhAVv&_nc_ohc=4RhyvPuzgOkQ7kNvgHWJe12&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=AEsIwVlYWRLlQNK6z4MF00A&oh=00_AYDLEwd-MaD76YDpik4XU_U_i1f--qxP55dU6Onoass9CQ&oe=670D193A
   page:
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+    permalink: "/all-sebastien-lorber-articles"
   socials:
     x: sebastienlorber
     linkedin: sebastienlorber

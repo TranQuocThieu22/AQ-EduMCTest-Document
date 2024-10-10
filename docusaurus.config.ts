@@ -3,6 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
+  
   title: 'AQ-EduMCTest',
   tagline: 'Hệ thống quản lí ngân hàng câu hỏi và thi trực tuyến',
   favicon: 'img/favicon.ico',
@@ -71,19 +72,26 @@ const config: Config = {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
+      
       items: [
+        {
+          type: 'docsVersionDropdown',
+        },
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Hướng dẫn sử dụng',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Bài viết (Blog)', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
           position: 'right',
         },
+        // {
+        //   type: 'localeDropdown',
+        // },
       ],
     },
     footer: {
